@@ -1,7 +1,7 @@
 # Louder: Social Netwotk built with Ruby on Rails 
 
 Version 0.1
-dibuat tanggal 25 Desember 2015, pada saat libur panjang 4 hari  (natal dan Maulid Nabi). Download dari sample app bro Michael Hartl.
+dibuat tanggal 25 Desember 2015, pada saat libur panjang 4 hari  (natal dan Maulid Nabi). Code Step by step sample app-nya bro Michael Hartl. 
 
 last update on local host Monday, Maret 27, 2016. 
 
@@ -16,7 +16,7 @@ $ bundle exec rake db:seed
 $ bundle exec rake test
 ```
 
-test sudah pass. minitest OK. dibuat untuk di extend lagi biar mangstab. Still need a lot of works and smokes. dibuat di MBP ME865
+test sudah pass. minitest OK. all test get green line. dibuat untuk di extend lagi biar mangstab. Still need a lot of works and smokes. MBP ME865 works fine
 
 ```
 $ git init
