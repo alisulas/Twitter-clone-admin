@@ -1,6 +1,9 @@
 # Louder: Social Netwotk built with Ruby on Rails 
 
-dibuat pada tanggal 25 Desember 2015, pada saat libur panjang 4 hari  (natal dan Maulid Nabi). Download dari sample app tutorial-nya michael hartl.
+Version 0.1
+dibuat tanggal 25 Desember 2015, pada saat libur panjang 4 hari  (natal dan Maulid Nabi). Download dari sample app bro Michael Hartl.
+
+last update on local host Monday, Maret 27, 2016. 
 
 
 
@@ -13,7 +16,7 @@ $ bundle exec rake db:seed
 $ bundle exec rake test
 ```
 
-test sudah pass. dibuat untuk di exted lagi biar mangstab. Semoga bisa jadi mangstab. dibuat di MBP ME865
+test sudah pass. minitest OK. dibuat untuk di extend lagi biar mangstab. Still need a lot of works and smokes. dibuat di MBP ME865
 
 ```
 $ git init
@@ -23,7 +26,7 @@ $ git status
 
 ```
 
-upload & Deploy app
+upload & Deploy app di Heroku udah sipp. 
 
 ```
 1. buat repository di github dgn nama Louder
@@ -34,7 +37,7 @@ $ git push #untuk push selanjutnya
 
 ```
 
-add to Heroku
+add to Heroku finished.
 
 ```
 
